@@ -1,1 +1,1 @@
-Pure Editor
+Blue Photo Editor
